@@ -1,4 +1,4 @@
-Hola, soy Carlos Mario Puentes Diz, tengo 28 años y soy de Colombia con planes de irme a España.
+Hola, soy Carlos Mario Puentes Diz, tengo 27 años y soy de Colombia.
 
 
 Me estoy preparando para laborar como desarrollador de software
@@ -6,4 +6,4 @@ Me estoy preparando para laborar como desarrollador de software
 
 Y sé que lo voy a lograr :)
 
-Vamos a ver que es lo que es
+Voy a modificar para sacarlo y despues incluirlo
